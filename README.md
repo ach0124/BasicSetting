@@ -14,6 +14,9 @@ CSS 기본 학습
 1. Hyper Text arkup Language 정의
 2. HTML 역사
 3. HTML의 차이점
+
+- [X] 학습하기
+- [_] 복습하기
   
   -----------
   using System.10;
