@@ -12,7 +12,9 @@ CSS 기본 학습
 ## HYML이란?
 개요에 대해서 학습합니다.
 1. Hyper Text arkup Language 정의
-2. HTML 역사
+2. HTML 역사\
+  - 하위 목록1
+  - 하위 목록2
 3. HTML의 차이점
 
 
