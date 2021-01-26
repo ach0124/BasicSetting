@@ -19,7 +19,8 @@ CSS 기본 학습
 
 ## CSS3
 CSS 기본 학습
-  CSS is Casd
+  CSS is Cascading Style Sheets.
+  
 
 ## JAVASCRIPT
 javascript 기본 학습
