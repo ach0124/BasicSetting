@@ -10,11 +10,17 @@ CSS 기본 학습
 ## HYML이란?
 개요에 대해서 학습합니다.
 
+-------------
+
 ## JAVASCRIPT
 javascript 기본 학습
 
+-------------
+
 ## Responsive Web
 응답형 웹 기본 학습
+
+-------------
 
 ## Project
 전체 통합 프로젝트
