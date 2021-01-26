@@ -28,7 +28,9 @@ CSS 기본 학습
      }
   ---
   
- - ,[실행결과] (https://github.com/ach0124/BasicSetting/edit/main/README.md)
+ !,[실행결과] (https://github.com/ach0124/BasicSetting/edit/main/README.md "절대 경로")
+ 
+ !,[실행결과] ( 
   
   참조링크
   -------
